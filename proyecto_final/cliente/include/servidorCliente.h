@@ -1,7 +1,6 @@
 #ifndef SEVIDOR_CLIENTE_H
 #define SEVIDOR_CLIENTE_H
 
-#include "ListaEnlazada.h"
 #include <iostream>
 #include <string>
 #include <cstring>
