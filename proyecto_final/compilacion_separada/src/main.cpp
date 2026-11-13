@@ -1,12 +1,6 @@
 //nombre: Nicolas Arcila Campo
 
-//Compilar en la terminal con ctrl + shift + b
-
-// Para probar que el servidorTCP esta recibiendo informacion se compila este
-// codigo y despues se abre una pestaña nueva de visual studio code para 
-// abrir la carpeta cliente despues se compila y llegara un mesaje en termina 
-// de este codigo y se finalizara el programa    
-
+  
 #include<iostream>
 
 
